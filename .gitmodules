@@ -1,0 +1,6 @@
+[submodule "api-catalogo-produtos"]
+	path = api-catalogo-produtos
+	url = git@github.com:danjusto/api-catalogo-produtos.git
+[submodule "front-catalogo-produto"]
+	path = front-catalogo-produto
+	url = git@github.com:danjusto/front-catalogo-produto.git
