@@ -1,4 +1,4 @@
-# Catalogo-produtos
+# Catálogo-produtos
 Aplicação de um catálogo de produtos fictício. Desenvolvido para um teste de estágio.
 
 ## 🔍 Detalhes do projeto
